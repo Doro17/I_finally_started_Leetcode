@@ -1,6 +1,14 @@
 # I_finally_started_Leetcode
 Felt cute might delete later 
 
-  AN OASIS IN A DESERT : FIRST MONTH DONE ! 
-<img width="150" height="150" alt="my first leetcode badge" src="https://github.com/user-attachments/assets/5b99be1d-9566-4f7d-a519-b8dd8457142c" />
+  
+
+  <img width="240"  alt="may" src="https://github.com/user-attachments/assets/7ba6a0a8-79c4-46d4-911a-72603fdf4745" />
+  <img width="240"  alt="50 days leetcode" src="https://github.com/user-attachments/assets/6afdb619-e6c8-45fd-be49-81327fc21609" />
+
+
+
+
+
+
 
