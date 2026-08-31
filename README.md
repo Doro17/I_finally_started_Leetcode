@@ -9,6 +9,8 @@ Felt cute might delete later
   
   <img width="240"  alt="DCC JULY" src="https://github.com/user-attachments/assets/6251af55-8d79-493e-9558-12d3330ce516" />
   <img width="240"  alt="image" src="https://github.com/user-attachments/assets/a909d4ca-a46b-4764-828f-c7be14802859" />
+  <img width="240"  alt="AUG LC BADGE" src="https://github.com/user-attachments/assets/2d66e6b6-580a-4861-8c30-c9a2602457f8" />
+
 
   
   
